@@ -1,0 +1,38 @@
+# Site settings
+title: Nele Belaen
+email: info@nelebelean.be
+url: http://www.nelebelaen.be
+description: "Mijn naam is Nele Belaen. In september 2010 begon ik mijn loopbaan als logopediste. Na het voltooien van mijn middelbare studies in Barnum te Roeselare, begon ik in 2007 aan mijn opleiding aan de VIVES campus zuid (voorheen: KHBO) in Brugge. Ik behaalde in 2010 mijn diploma Bachelor in de logopedie."
+skills: "Logopedie"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: F295A4 #F295A4      
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: E94866 #E94866
+  secondary-dark: F295A4 #F295A4
+
+# Footer settings
+footer:
+  copyright: Nele Belaen
+  location: Adres
+  social: Facebook
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Kortrijksestraat 91
+  - line: 8890 Dadizele 
+  - line: <a href="tel:+32499283420">0499 28 34 20</a>
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
